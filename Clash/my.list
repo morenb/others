@@ -7,6 +7,13 @@ DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,torrentleech.org
+DOMAIN-SUFFIX,hostloc.com
+
+IP-CIDR,10.37.52.1/24
+IP-CIDR,172.16.5.1/24
 
 #
 DOMAIN-SUFFIX,c3pool.com
